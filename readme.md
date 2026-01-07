@@ -16,8 +16,8 @@ Hello there! 👋 I'm Mumair, a passionate **MERN developer** always exploring n
 
 ---
 
-- **Followers**: ![Followers Count](https://img.shields.io/github/followers/mumair-dev?style=social)
-- **Stars**: ![Stars Count](https://img.shields.io/github/stars/mumair-dev?style=social)
+![Followers Count](https://img.shields.io/github/followers/mumair-dev?style=social)
+![Stars Count](https://img.shields.io/github/stars/mumair-dev?style=social)
 
 ---
 
